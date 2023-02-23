@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Planets
+//  PhotoCollection
 //
-//  Created by Diante Lewis-Jolley on 2/22/23.
+//  Created by Diante Lewis-Jolley on 2/23/23.
 //
 
 import UIKit
